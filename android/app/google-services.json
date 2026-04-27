@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7487890900",
+    "project_id": "ai-exam-2a2a4",
+    "storage_bucket": "ai-exam-2a2a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7487890900:android:99b739de9a43a4b7f4a241",
+        "android_client_info": {
+          "package_name": "com.example.ai_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKvxQWZNt5aN23-yl54Taw__af9Nh2K7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
