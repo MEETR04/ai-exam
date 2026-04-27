@@ -13,6 +13,7 @@ import 'presentation/theme/app_theme.dart';
 
 void main() async {
   ///CHANGES FROM MAIN BRANCH FROM ORIGIN CHROME
+  ///CHANGES FROM MAIN BRANCHES FROM ORIGIN PULL
   // Preserve the native splash until app is ready
   final binding = WidgetsFlutterBinding.ensureInitialized();
   FlutterNativeSplash.preserve(widgetsBinding: binding);
